@@ -1,7 +1,7 @@
 node {
   stage('cloning maven project')
   {
-    git 'https://github.com/Sharath-yp25/mavenproject.git'
+    git 'https://github.com/NikhithN555/mavenproject.git'
   }
   stage('Building maven project')
   {
